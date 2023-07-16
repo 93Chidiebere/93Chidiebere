@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @93Chidiebere
-- 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently learning Python and MySQL
-- 💞️ I’m looking to collaborate on Exploratory Data Analysis projects
+- 👀 I’m interested in Data Science Research and Consulting
+- 💞️ I’m looking to collaborate on Machine Learning and EDA projects
 - 📫 You can reach me on Twitter via @chi_di_ebere 
 
 <!---
