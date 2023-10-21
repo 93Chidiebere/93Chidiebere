@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @93Chidiebere
-- 👀 I’m interested in Data Science Research and Consulting
+- 👀 I’m interested in Machine Learning Research and Business Intelligence Consulting
 - 💞️ I’m looking to collaborate on Machine Learning and EDA projects
 - 📫 You can reach me on Twitter via @chi_di_ebere 
 
