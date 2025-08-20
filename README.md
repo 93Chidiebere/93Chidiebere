@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @93Chidiebere
-- 👀 I’m interested in Machine Learning Research and Business Intelligence Consulting
-- 💞️ I’m looking to collaborate on Machine Learning and EDA projects
+- 👋 Hi, I’m Chidiebere
+- 👀 I’m interested in GeoAI Research, Data Engineering and Business Intelligence Consulting
+- 💞️ I’m looking to collaborate on extensive academic research and deliver business solutions
 - 📫 You can reach me on Twitter via @chi_di_ebere 
 
 <!---
