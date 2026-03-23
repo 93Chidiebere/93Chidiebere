@@ -3,7 +3,7 @@ I am a Data Scientist, Machine Learning engineer, senior Data Analyst and AI pro
 
 # Projects
 
-## Libraries:
+## Libraries I developed for users:
 - **pyedahelper**: I built pyedahelper, a Python library for absolute beginner data analysts. When you do exploratory data analysis, pyedahelper helps you suggest next analytics step and the syntax to do so. Providing assistance end-to-end of the project task.
 - **TCGM**: TimeCost Gradient Machine is a finance domain **machine learning** algorithm for training supervised learning models (Regression & Classification). Unlike the general purpose algorithms like Random Forest, SVM etc., **TCGM** emphasis on the monetary value of training a model; how did we gain or save from using this model built with TCGM? The metric is seeking to lower expected monetary loss (EML).
 - **NGPU**: Nigerian Geographic and Polling Units is an address hierarchy library to resolve missing information challenge around Nigerian states, LGAs, wards and polling units.
